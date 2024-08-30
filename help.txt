@@ -1,0 +1,91 @@
+# VERSION EN ESPAÑOL
+
+# Guía de Uso para el Programa de Creador de Cuentas
+
+## Opciones Disponibles:
+
+1. Obtener Lista de Números:
+   - Sub-opciones:
+     1. Consultar Países Disponibles (getCountries)
+        - Muestra una lista de países con sus códigos para que puedas seleccionar el adecuado.
+     2. Consultar Operadores Disponibles (getOperators)
+        - Ingresa el código del país para ver los operadores disponibles.
+     3. Obtener Números
+        - Ingresa el código del servicio (e.g., wa para WhatsApp) y el código del país para obtener un número disponible.
+
+2. Comprar Número de Teléfono / Alquilar Número:
+   - Sub-opciones:
+     1. Comprar Número de Teléfono
+        - Ingresa el código del servicio y del país para comprar un número.
+     2. Alquilar Número de Teléfono
+        - Consulta servicios de alquiler y selecciona la duración del alquiler.
+
+3. Recibir Código de Activación:
+   - Ingresa el ID de la activación para recibir el estado actual.
+
+## Ejemplos de Uso:
+
+- Obtener un Número de WhatsApp para Argentina:
+  1. Selecciona "Obtener Lista de Números"
+  2. Selecciona "Obtener Números"
+  3. Ingresa el código del servicio: `wa`
+  4. Ingresa el código del país: `39` (para Argentina)
+
+- Alquilar un Número para Telegram en México:
+  1. Selecciona "Comprar Número de Teléfono / Alquilar Número"
+  2. Selecciona "Alquilar Número de Teléfono"
+  3. Ingresa el código del servicio: `tg`
+  4. Ingresa el código del país: `150` (para México)
+  5. Ingresa la duración del alquiler: `30` (por ejemplo, para 30 minutos)
+
+## Notas:
+- Asegúrate de ingresar los códigos de servicio y país correctamente.
+- Si recibes el mensaje "No hay números disponibles", verifica que el servicio y país seleccionados estén disponibles en el sitio web del proveedor.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#ENGLISH VERSION
+
+# User Guide for the Account Creator Program
+
+## Available Options:
+
+1. Get List of Numbers:
+   - Suboptions:
+     1. Check Available Countries (getCountries)
+        - Shows a list of countries with their codes so you can select the appropriate one.
+     2. Check Available Operators (getOperators)
+        - Enter the country code to see the available operators.
+     3. Get Numbers
+        - Enter the service code (e.g. wa for WhatsApp) and country code to get an available number.
+
+2. Buy Phone Number / Rent Number:
+   - Suboptions:
+     1. Buy Phone Number
+        - Enter the service and country code to purchase a number.
+     2. Rent Phone Number
+        - Consult rental services and select the rental duration.
+
+3. Receive Activation Code:
+   - Enter the activation ID to receive the current status.
+
+## Examples of use:
+
+- Get a WhatsApp Number for Argentina:
+  1. Select "Get List of Numbers"
+  2. Select "Get Numbers"
+  3. Enter the service code: `wa`
+  4. Enter the country code: `39` (for Argentina)
+
+- Rent a Number for Telegram in Mexico:
+  1. Select "Buy Phone Number / Rent Number"
+  2. Select "Rent Phone Number"
+  3. Enter the service code: `tg`
+  4. Enter the country code: `150` (for Mexico)
+  5. Enter the rental duration: `30` (for example, for 30 minutes)
+
+## Grades:
+- Make sure you enter the service and country codes correctly.
+- If you receive the message "No numbers available", verify that the selected service and country are available on the provider's website.
+
+
